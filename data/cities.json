@@ -23,6 +23,18 @@
         "lat": "65.37041417320269",
         "lng": "99.49218750000001"
       }
+    },
+    {
+      "id": "57b7",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg",
+      "date": "2025-02-01T08:37:41.854Z",
+      "notes": "uyfj",
+      "position": {
+        "lat": "40.01395520005485",
+        "lng": "0.018539428710937503"
+      }
     }
   ]
 }
